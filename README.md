@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shailesh Tripathi 👋</h1>
 
 <p align="center">
-  <b>Senior Manager, Engineering / FDE &amp; @ Salesforce </b><br/>
+  <b>Senior Manager, Engineering / FDE  @ Salesforce </b><br/>
   Quality Engineering Leader · AI-Driven Test Automation · Agentic AI &amp; Claude Skills · Multi-Cloud Delivery
 </p>
 
