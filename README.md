@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shailesh Tripathi 👋</h1>
 
 <p align="center">
-  <b>Senior Manager, Engineering &amp; QA @ Salesforce (Informatica)</b><br/>
+  <b>Senior Manager, Engineering / FDE &amp; @ Salesforce </b><br/>
   Quality Engineering Leader · AI-Driven Test Automation · Agentic AI &amp; Claude Skills · Multi-Cloud Delivery
 </p>
 
@@ -17,7 +17,8 @@
 
 I lead engineering and quality for **Cloud Data Governance & Catalog (CDGC)** on Salesforce IDMC, working with a 30-member cross-functional team and enterprise customers across **AWS, Azure, GCP and OCI**.
 
-17+ years in software quality and test engineering, 11+ of them leading teams. My focus today is moving quality from script-based testing to **AI-augmented, self-healing, and measurable** practices.
+Customer-facing engineering leader with 17+ years embedding directly with enterprise clients to turn ambiguous, high-stakes problems into shipped, production-grade solutions on AWS, Azure, GCP, and OCI. Currently the primary technical point of contact between Salesforce/Informatica's largest customers and Product/Engineering — owning discovery, rapid prototyping, root-cause analysis, and permanent fixes for a Cloud Data Governance & Catalog platform used at enterprise scale. Builds and ships Agentic AI and Anthropic Claude Skills to automate real workflows, not just internal tooling. Comfortable being dropped into a live customer environment, diagnosing the problem on the spot, and staying until it's solved — 99.9% uptime, 40% faster MTTR, 35% faster regression cycles.<img width="468" height="103" alt="image" src="https://github.com/user-attachments/assets/acd033b7-30d7-412e-a291-6a5dc053eb50" />
+ **AI-augmented, self-healing, and measurable** practices.
 
 - 🤖 Building **Agentic AI workflows and Anthropic Claude Skills** for QA and customer-issue triage
 - 🧪 Designing test automation frameworks (Karate, Selenium, TestNG) with TDD/BDD and CI/CD
