@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior Manager, Engineering / FDE  @ Salesforce </b><br/>
-  Quality Engineering Leader · AI-Driven Test Automation · Agentic AI &amp; Claude Skills · Multi-Cloud Delivery
+  Engineering Leader · AI-Driven Test Automation · Agentic AI &amp; Claude Skills · Multi-Cloud Delivery
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ I lead engineering and quality for **Cloud Data Governance & Catalog (CDGC)** on
 Customer-facing engineering leader with 17+ years embedding directly with enterprise clients to turn ambiguous, high-stakes problems into shipped, production-grade solutions on AWS, Azure, GCP, and OCI. Currently the primary technical point of contact between Salesforce/Informatica's largest customers and Product/Engineering — owning discovery, rapid prototyping, root-cause analysis, and permanent fixes for a Cloud Data Governance & Catalog platform used at enterprise scale. Builds and ships Agentic AI and Anthropic Claude Skills to automate real workflows, not just internal tooling. Comfortable being dropped into a live customer environment, diagnosing the problem on the spot, and staying until it's solved — 99.9% uptime, 40% faster MTTR, 35% faster regression cycles.
  **AI-augmented, self-healing, and measurable** practices.
 
-- 🤖 Building **Agentic AI workflows and Anthropic Claude Skills** for QA and customer-issue triage
+- 🤖 Building **Agentic AI workflows and Anthropic Claude Skills** for QA and customer-issue.
 - 🧪 Designing test automation frameworks (Karate, Selenium, TestNG) with TDD/BDD and CI/CD
 - ☁️ Stabilizing SaaS platforms across hybrid clouds with SRE practices
 - 🔍 Root-cause analysis and permanent fixes, not workarounds
